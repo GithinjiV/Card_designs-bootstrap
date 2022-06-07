@@ -1,0 +1,38 @@
+p{
+    font-size: 12px;
+}
+
+.card{
+  margin-top: 30px;
+  box-shadow: 0px 1px rgba(210, 117, 40, 0.979) inset;
+}
+  #btn1{
+    color: white;
+    padding: 4px;
+    width: 100px;
+    background-color: rgba(197, 252, 0, 0.904);
+    border: none;
+    border-radius: 25px;
+    text-align: center;
+  }
+  #btn2{
+    color: white;
+    padding: 2px;
+    width: 200px;
+    box-sizing: content-box;
+    background-color:rgba(210, 117, 40, 0.979);
+    border: none;
+    border-radius: 25px;
+    text-align: center;
+    font: 13px;
+}
+  #btn3{
+    color: white;
+    padding: 4px;
+    width: 120px;
+    background-color:rgba(210, 117, 40, 0.979);
+    border: none;
+    border-radius: 25px;
+    text-align: center;
+}
+
